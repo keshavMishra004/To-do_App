@@ -1,12 +1,8 @@
-# React + Vite
+The functions you can perform in Todo-App:
+by clicking on add to list bar you can type ur task or work of the day, then click on add to add it as a task.
+by sequence u can add more and as you add next it will be added below the first task placed.
+on if any of ur task has been completed u can click on the left cicrle present with the task to mark as the task be done with a line over it.
+if u want to do some change in your task u can just click on edit button.
+if u want to completely remove some task from your list u can click on the bin icon to remove/delete some task fully.
+ur data will also be saved even u if remove ur tab , the tasks would be there when u open the site again.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
